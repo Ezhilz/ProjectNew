@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/byte-buddy-1.17.6.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/byte-buddy-1.17.6-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/commons-exec-1.5.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/commons-exec-1.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/error_prone_annotations-2.38.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/error_prone_annotations-2.38.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/failureaccess-1.0.3.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/failureaccess-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/guava-33.4.8-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/guava-33.4.8-jre-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-api-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-api-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-common-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-common-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-context-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-context-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-exporter-logging-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-exporter-logging-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-common-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-common-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-extension-autoconfigure-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-extension-autoconfigure-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-extension-autoconfigure-spi-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-logs-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-logs-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-metrics-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-metrics-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-trace-1.53.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/opentelemetry-sdk-trace-1.53.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-api-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-api-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-chrome-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-chrome-driver-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-chromium-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-chromium-driver-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-devtools-v137-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-devtools-v137-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-devtools-v138-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-devtools-v138-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-devtools-v139-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-devtools-v139-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-edge-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-edge-driver-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-firefox-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-firefox-driver-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-http-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-http-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-ie-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-ie-driver-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-java-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-java-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-json-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-json-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-manager-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-manager-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-os-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-os-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-remote-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-remote-driver-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-safari-driver-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-safari-driver-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-support-4.35.0.jar"/>
+	<classpathentry kind="lib" path="F:/Doximo25Aug/selenium java/selenium-support-4.35.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Download/commons-io-2.20.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
